@@ -1,2 +1,3 @@
 # Chess game
-Chess game developed using Visual Studio Code and WPF framework in C# Laguage
+Developed a fully functional chess game implementing all standard rules of chess using the Windows Presentation Foundation (WPF) framework in C# within Visual Studio Code. This was my first game development project, created by closely following YouTube tutorials. The experience helped me build a strong foundation in object-oriented programming, game logic, and GUI development using XAML. It also enhanced my understanding of user interaction handling, application structure, and the overall game development process from start to finish.
+![Image](https://github.com/user-attachments/assets/01f1a118-ec61-4a56-aeb2-4e41276ec7ad)
