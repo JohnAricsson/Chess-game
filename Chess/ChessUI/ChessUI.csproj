@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\board.png" />
+    <None Remove="Assets\chess-bishop-black.png" />
+    <None Remove="Assets\chess-bishop-white.png" />
+    <None Remove="Assets\chess-king-black.png" />
+    <None Remove="Assets\chess-king-white.png" />
+    <None Remove="Assets\chess-knight-black.png" />
+    <None Remove="Assets\chess-knight-white.png" />
+    <None Remove="Assets\chess-pawn-black.png" />
+    <None Remove="Assets\chess-pawn-white.png" />
+    <None Remove="Assets\chess-queen-black.png" />
+    <None Remove="Assets\chess-queen-white.png" />
+    <None Remove="Assets\chess-rook-black.png" />
+    <None Remove="Assets\chess-rook-white.png" />
+    <None Remove="Assets\CursorB.cur" />
+    <None Remove="Assets\CursorW.cur" />
+    <None Remove="Assets\icon.png" />
+    <None Remove="Assets\player_16221536.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChessLogic\ChessLogic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\board.png" />
+    <Resource Include="Assets\chess-bishop-black.png" />
+    <Resource Include="Assets\chess-bishop-white.png" />
+    <Resource Include="Assets\chess-king-black.png" />
+    <Resource Include="Assets\chess-king-white.png" />
+    <Resource Include="Assets\chess-knight-black.png" />
+    <Resource Include="Assets\chess-knight-white.png" />
+    <Resource Include="Assets\chess-pawn-black.png" />
+    <Resource Include="Assets\chess-pawn-white.png" />
+    <Resource Include="Assets\chess-queen-black.png" />
+    <Resource Include="Assets\chess-queen-white.png" />
+    <Resource Include="Assets\chess-rook-black.png" />
+    <Resource Include="Assets\chess-rook-white.png" />
+    <Resource Include="Assets\CursorB.cur" />
+    <Resource Include="Assets\CursorW.cur" />
+    <Resource Include="Assets\icon.png" />
+  </ItemGroup>
+
+</Project>

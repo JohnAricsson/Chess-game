@@ -1,0 +1,11 @@
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.deps.json
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.dll
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\bin\Debug\net8.0\ChessLogic.pdb
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfoInputs.cache
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.AssemblyInfo.cs
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.csproj.CoreCompileInputs.cache
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.dll
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\refint\ChessLogic.dll
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ChessLogic.pdb
+H:\AIUB\Coding\Other project\ChessGame\Chess\ChessLogic\obj\Debug\net8.0\ref\ChessLogic.dll
